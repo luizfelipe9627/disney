@@ -2,7 +2,7 @@
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
-<img src="https://github.com/luizfelipe9627/desafio-disney-vnw/blob/main/assets/apresentacao.gif" alt="Apresentação do Desafio do Vai na Web">
+<img src="https://github.com/luizfelipe9627/desafio-disney-vnw/blob/main/src/assets/apresentacao.gif" alt="Apresentação do Desafio do Vai na Web">
 
 ## 📄 Descrição
 
@@ -10,7 +10,7 @@ Simula um site da Disney na qual mostra os maiores filmes da atualidade.
 
 ## 📑 Observação
 
-Esse desafio foi criado pelo Vai na Web para aprimorar os conhecimentos básicos em HTML5 e CSS3.
+O design desse desafio foi criado pelo Vai na Web para aprimorar na prática os conhecimentos básicos em HTML5 e CSS3 dos alunos.
 
 ### <a href="https://luizfelipe9627-desafio-disney-vnw.netlify.app/">Acesse o site</a>
 
