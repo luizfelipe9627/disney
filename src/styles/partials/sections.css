@@ -15,6 +15,7 @@
 
 .card {
   margin: 0 0 7.1875rem 0;
+  cursor: pointer;
 }
 
 .card-center {
