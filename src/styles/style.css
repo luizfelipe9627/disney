@@ -1,0 +1,15 @@
+/* Global */
+@import url('./global/global.css');
+@import url('./global/reset.css');
+
+/* Tipografia */
+@import url('../fonts/font.css');
+
+/* Header */
+@import url('./partials/header.css');
+
+/* Section */
+@import url('./partials/sections.css');
+
+/* Footer */
+@import url('./partials/footer.css');

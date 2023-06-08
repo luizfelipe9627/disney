@@ -1,0 +1,29 @@
+.footer {
+  background-color: #1E1E1E;
+  text-align: center;
+  font-family: Actor;
+  font-size: 1.25rem;
+  line-height: 1.5rem;
+  padding: 0 4rem 0 2.875rem;
+}
+
+.footer-container {
+  display: inline-flex;
+  align-items: center;
+}
+
+.copy-text p {
+  color: #FFF;
+  margin-right: 3.0625rem;
+  text-align: left;
+  width: 100%;
+}
+
+.copy-icons {
+  display: inline-flex;
+  align-items: center;
+}
+
+.icon-instagram {
+  margin: 0 1.75rem 0 1rem;
+}

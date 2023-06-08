@@ -1,0 +1,28 @@
+.banner img {
+  width: 100%;
+  height: 34.875rem;
+}
+
+.cards {
+  text-align: center;
+  padding: 4.625rem 0 2.625rem 0;
+}
+
+.card,
+.card-center {
+  display: inline-flex;
+}
+
+.card {
+  margin: 0 0 7.1875rem 0;
+}
+
+.card-center {
+  margin: 0 3.3125rem;
+}
+
+.card img,
+.card-center img {
+  height: 32.0625rem;
+  width: 22.0625rem;
+}

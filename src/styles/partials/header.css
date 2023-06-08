@@ -1,0 +1,23 @@
+header {
+  background-color: #1E1E1E;
+  padding: 4.875rem 0;
+}
+
+nav {
+  text-align: center;
+}
+
+ul {
+  display: inline-flex;
+}
+
+ul li {
+  font-family: "Lily Script One";
+  color: #FFF;
+  font-size: 2rem;
+  line-height: 2.7519rem;
+}
+
+.item2 {
+  padding: 0 8rem;
+}
