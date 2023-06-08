@@ -10,7 +10,7 @@ Simula um site da Disney na qual mostra os maiores filmes da atualidade.
 
 ## 📑 Observação
 
-Esse desafio foi criado pelo Vai na Web para aprimorar os conhecimentos básicos em HTML5 e CSS3.
+O design desse desafio foi criado pelo Vai na Web para aprimorar na prática os conhecimentos básicos em HTML5 e CSS3 dos alunos.
 
 ### <a href="https://luizfelipe9627-desafio-disney-vnw.netlify.app/">Acesse o site</a>
 
