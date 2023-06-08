@@ -1,0 +1,12 @@
+body {
+  cursor: url("../../assets/img/cursor-default.cur"), default;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  cursor: url("../../assets/img/cursor-pointer.cur"), pointer;
+}

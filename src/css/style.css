@@ -1,6 +1,6 @@
 /* Global */
-@import url('./global/global.css');
-@import url('./global/reset.css');
+@import url('./common/global.css');
+@import url('./common/reset.css');
 
 /* Tipografia */
 @import url('../fonts/font.css');
