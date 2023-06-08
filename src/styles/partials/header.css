@@ -1,17 +1,17 @@
-header {
+.header {
   background-color: #1E1E1E;
   padding: 4.875rem 0;
 }
 
-nav {
+.navigation {
   text-align: center;
 }
 
-ul {
+.list-items {
   display: inline-flex;
 }
 
-ul li {
+.list-items li a {
   font-family: "Lily Script One";
   color: #FFF;
   font-size: 2rem;
