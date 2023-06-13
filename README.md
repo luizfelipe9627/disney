@@ -1,4 +1,4 @@
-# Filmes da Disney - Desafio do Vai na Web
+# Disney - Vai na Web
 
 ![Badge](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
@@ -6,11 +6,7 @@
 
 ## 📄 Descrição
 
-Simula um site da Disney na qual mostra os maiores filmes da atualidade.
-
-## 📑 Observação
-
-O design desse desafio foi criado pelo Vai na Web para aprimorar na prática os conhecimentos básicos em HTML5 e CSS3 dos alunos.
+Simula um site da Disney na qual mostra os maiores filmes da atualidade, criado com o intuito de aprimorar os conhecimentos básicos em HTML5 e CSS3.
 
 ### <a href="https://luizfelipe9627-desafio-disney-vnw.netlify.app/">Acesse o site</a>
 
