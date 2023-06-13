@@ -6,9 +6,9 @@
 
 ## 📄 Descrição
 
-Simula um site da Disney na qual mostra os maiores filmes da atualidade, criado com o intuito de aprimorar os conhecimentos básicos em HTML5 e CSS3.
+O desafio é um site da Disney na qual mostra os maiores filmes da atualidade, criado com o intuito de aprimorar os conhecimentos básicos em HTML5 e CSS3.
 
-### <a href="https://luizfelipe9627-desafio-disney-vnw.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-disney-vnw.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
