@@ -15,6 +15,7 @@
 .copy-text p {
   color: #FFF;
   margin-right: 3.0625rem;
+  text-align: left;
 }
 
 .copy-icons {
