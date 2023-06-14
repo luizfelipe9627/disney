@@ -1,6 +1,5 @@
 .header {
   background-color: #1E1E1E;
-  padding: 4.875rem 0;
 }
 
 .navigation {
@@ -18,6 +17,6 @@
   line-height: 2.7519rem;
 }
 
-.item2 {
-  padding: 0 8rem;
+.list-items li {
+  padding: 78px; 
 }

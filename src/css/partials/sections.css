@@ -10,7 +10,7 @@
   margin: 0 auto;
 }
 
-.card {
+.cards div {
   display: inline-flex;
   margin: 0 1.6563rem 7.1875rem 1.6563rem;
   cursor: pointer;
