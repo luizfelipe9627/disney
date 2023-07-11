@@ -6,7 +6,11 @@
 
 ## 📄 Descrição
 
-O desafio é um site da Disney na qual mostra os maiores filmes da atualidade, criado com o intuito de aprimorar os conhecimentos básicos em HTML5 e CSS3.
+Site da Disney na qual mostra os maiores filmes da atualidade.
+ 
+## 📑 Observação
+
+O desafio foi criado com o intuito de aprimorar os conhecimentos básicos em HTML5 e CSS3.
 
 ### <a href="https://luizfelipe9627-disney-vnw.netlify.app">Acesse o site</a>
 
