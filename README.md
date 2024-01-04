@@ -12,7 +12,7 @@ Site da Disney na qual mostra os maiores filmes da atualidade.
 
 O desafio foi criado com o intuito de aprimorar os conhecimentos básicos em HTML5 e CSS3.
 
-### <a href="https://luizfelipe9627-disney-vnw.netlify.app">Acesse o site</a>
+### <a href="https://luizfelipe9627-disney.netlify.app">Acesse o site</a>
 
 ## 💻 Tecnologias utilizadas
 
